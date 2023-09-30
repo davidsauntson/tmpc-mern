@@ -17,6 +17,9 @@
     "type": "git",
     "url": "https://github.com/UFWebApps/React_Template_Repo.git"
   },
+  "engines": {
+    "node": "16.20"
+  },
   "keywords": [],
   "author": "Dakota Rennemann",
   "license": "MIT",
